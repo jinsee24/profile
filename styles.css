@@ -1,0 +1,25 @@
+
+    
+body{
+    background-image: url('https://img.freepik.com/premium-photo/pink-background-with-white-flowers-leaves_662214-413250.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725580800&semt=ais_hybrid');
+    background-size:cover;
+    }
+    
+    img{
+    border-radius: 100%;
+    
+    }
+    section {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 20px 80px 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    #Name{
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         border-radius: 50px;
+         height: 50%;
+         width: 70%;
+    }
+    
